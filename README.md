@@ -12,9 +12,9 @@
 - [Bitbar](https://getbitbar.com/)
 - [Novel COVID API](https://github.com/NovelCOVID/API)
 
-![](https://github.com/benjamin-sommer/covid-19-uk-tracker/blob/master/unopened.png?raw=true)
+![](https://i.imgur.com/6zvKxDI.png)
 
-![](https://github.com/benjamin-sommer/covid-19-uk-tracker/blob/master/opened.png?raw=true)
+![](https://i.imgur.com/6cttnCW.png)
 
 ## How to Install
 
