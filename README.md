@@ -36,7 +36,7 @@ There are two ways to install BitBar on your Mac:
 
 **4. Saving this script**
 
-- Download the [script](https://github.com/benjamin-sommer/covid-19-uk-tracker/master/covid-19-uk-tracker.py) on your local machine. Make sure you place this file in the same plugin folder which you created while installing Bitbar.
+- Download the [script](https://github.com/benjamin-sommer/covid-19-uk-tracker/blob/master/covid-19-uk-tracker.py) on your local machine. Make sure you place this file in the same plugin folder which you created while installing Bitbar.
 - Go to the plugin folder and run `chmod +x covid-19-uk-tracker.py`
 - Refresh Bitbar.
 
