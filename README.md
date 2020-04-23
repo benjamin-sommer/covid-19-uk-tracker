@@ -40,6 +40,3 @@ There are two ways to install BitBar on your Mac:
 - Go to the plugin folder and run `chmod +x covid-19-uk-tracker.py`
 - Refresh Bitbar.
 
-## License
-
-[See license](https://github.com/benjamin-sommer/covid-19-uk-tracker/master/LICENSE)
