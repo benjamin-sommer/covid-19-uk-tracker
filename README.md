@@ -1,6 +1,6 @@
 # <img src="https://www.countryflags.io/gb/shiny/48.png" alt="Logo" height="24"> Covid-19 United Kingdom Tracker
 
-[About the Project](#about-the-project) | [How to Install](#how-to-install) | [Set up my own tracker](#set-up-my-own-tracker) | [License](#license)
+[About the Project](#about-the-project) | [How to Install](#how-to-install)
 
 
 ## About The Project
